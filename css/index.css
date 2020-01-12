@@ -21,8 +21,7 @@ body {
         background-color: #b2b7bb !important; }
       body .calc-container #display {
         font-size: 4rem;
-        height: 6.5rem;
-        font-weight: lighter; } }
+        height: 6.5rem; } }
 .calc-container {
   width: 20rem;
   font-size: 1.5rem;
