@@ -20,9 +20,9 @@ body {
       body .calc-container .on-off-ac {
         background-color: #b2b7bb !important; }
       body .calc-container #display {
-        font-size: 3rem;
-        font-weight: lighter;
-        line-height: 1; } }
+        font-size: 4rem;
+        height: 6.5rem;
+        font-weight: lighter; } }
 .calc-container {
   width: 20rem;
   font-size: 1.5rem;
@@ -48,5 +48,3 @@ body {
     border-bottom: .1rem solid black; }
     .calc-container #onOff:hover {
       background-color: #b2b7bb !important; }
-
-/*# sourceMappingURL=index.css.map */
