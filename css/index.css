@@ -31,8 +31,7 @@ body {
     font-size: 2.5rem;
     border-bottom: 1px solid #fbfbfb;
     height: 4.5rem;
-    overflow: hidden;
-    padding-left: .85rem !important; }
+    overflow: hidden; }
   .calc-container button {
     border-color: #333232; }
     .calc-container button:focus {
